@@ -5,6 +5,10 @@ The python data processing application is designed to facilitate the analysis of
 
 ![image](https://user-images.githubusercontent.com/94695950/193479420-548f6e69-cbda-4def-974f-67e6df488241.png)
 
+By clicking on the VARIABLES button we obtain the results of calculations of the variables
+
+![image2](https://user-images.githubusercontent.com/94695950/193480942-507af7c7-4d13-4233-bbcf-0ec3b491ab3e.png)
+
 ## Year of writing :
     2022
     
