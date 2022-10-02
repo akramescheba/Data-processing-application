@@ -89,17 +89,17 @@ To deploy this project run
 ```
 ## Illustrations Images
 
-## _Figure 1_
+_Figure 1_
 By deploying the application, we obtain the following interface
 
 ![image](https://user-images.githubusercontent.com/94695950/193479420-548f6e69-cbda-4def-974f-67e6df488241.png)
 
-## _Figure 2_
+_Figure 2_
 By clicking on the VARIABLES button we obtain the results of calculations of the variables
 
 ![image2](https://user-images.githubusercontent.com/94695950/193480942-507af7c7-4d13-4233-bbcf-0ec3b491ab3e.png)
 
-## _Figure 3_
+_Figure 3_
 By clicking on the GRAPHS button we obtain the following results
 
 ![image3](https://user-images.githubusercontent.com/94695950/193481503-c385df61-afbf-472d-9a8d-6da1240fcbd9.png)
