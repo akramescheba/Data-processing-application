@@ -1,14 +1,6 @@
 # Python data processing application
 The python data processing application is designed to facilitate the analysis of data relating to people vaccinated against Covid-19. This application is based on the pandas library for reading csv data, Matplotlib for querying data, calculating statistical variables (means, medians, mode, plotting graphs and Tkinter for viewing and setting data to be processed.
 
-## Illustrations Images
-
-![image](https://user-images.githubusercontent.com/94695950/193479420-548f6e69-cbda-4def-974f-67e6df488241.png)
-
-By clicking on the VARIABLES button we obtain the results of calculations of the variables
-
-![image2](https://user-images.githubusercontent.com/94695950/193480942-507af7c7-4d13-4233-bbcf-0ec3b491ab3e.png)
-
 ## Year of writing :
     2022
     
@@ -95,6 +87,23 @@ To deploy this project run
 ```bash
     python projet.py
 ```
+## Illustrations Images
+
+## _Figure 1_
+By deploying the application, we obtain the following interface
+
+![image](https://user-images.githubusercontent.com/94695950/193479420-548f6e69-cbda-4def-974f-67e6df488241.png)
+
+## _Figure 2_
+By clicking on the VARIABLES button we obtain the results of calculations of the variables
+
+![image2](https://user-images.githubusercontent.com/94695950/193480942-507af7c7-4d13-4233-bbcf-0ec3b491ab3e.png)
+
+## _Figure 3_
+By clicking on the GRAPHS button we obtain the following results
+
+![image3](https://user-images.githubusercontent.com/94695950/193481503-c385df61-afbf-472d-9a8d-6da1240fcbd9.png)
+
 
 ## Contributing
 I am a beginner in Web Development, all your contributions are always welcome by recommendations or comments, on points to improve thus allowing me to perfect myself!
