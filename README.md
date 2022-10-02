@@ -7,11 +7,11 @@ The python data processing application is designed to facilitate the analysis of
 ## technical
 Development language and interpreter:
 
--	Language :Python
+-	Language : Python
 
     -	Version :3.9
 
--   Vs code
+-   Interpreter : Vs code
 
 Dependencies and library
 -   Pandas
