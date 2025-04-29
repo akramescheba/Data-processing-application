@@ -3,6 +3,10 @@ The python data processing application is designed to facilitate the analysis of
 
 ## Year of writing :
     2022
+
+![profil](https://github.com/user-attachments/assets/d3f6b93c-3a71-4df3-b5e4-8c153191720c)
+
+
     
 ## technical
 Development language and interpreter:
